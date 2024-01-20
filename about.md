@@ -27,8 +27,9 @@ redirect_from:
 ### JPEG 확장을 통한 다초점 멀티 콘텐츠 카메라 솔루션, One Pic All-in JPEG
 
 **멀티 콘텐츠를 담을 수 있는 새로운 파일 포맷 All-in JPEG을 기반으로한, 한 번의 촬영으로 사후 초점 변경이 가능한 카메라 솔루션**<br><br>
-2023.03. - 2023.12.<br> [<span class="icon-youtube"></span>](https://www.youtube.com/watch?v=9IaMnBYUsA8) [<span class="icon-github"></span>](https://github.com/HINAPIA/OnePic-All-in-JPEG)
-{:.note title="Summary"}
+2023.03. - 2023.12.<br> [<span class="icon-youtube"> Youtube </span>](https://www.youtube.com/watch?v=9IaMnBYUsA8) [<span class="icon-github"> Github </span>](https://github.com/HINAPIA/OnePic-All-in-JPEG)
+{:.note title="Summary"} 
+
 
 #### 프로젝트 개요
 <div markdown="1">
@@ -80,7 +81,7 @@ redirect_from:
 ## Electron을 이용한 새로운 IoT 가전 장치, CoMirror (Communication Mirror) ##
 
 **CoMirror는 거울에 Raspberry PI를 부착한 IoT 가전장치로서, 패밀리 허브로 사용되거나 여러 패밀리를 네트워크로 연결할 수 있는 IoT 장치이다.**<br><br>
-2022.06. - 2023.02. <br>[<span class="icon-youtube"></span>](https://www.youtube.com/watch?v=Fe8LvNGYio0) [<span class="icon-github"></span>](https://github.com/HINAPIA/CoMirror)
+2022.06. - 2023.02. <br>[<span class="icon-youtube"> Youtube </span>](https://www.youtube.com/watch?v=Fe8LvNGYio0) [<span class="icon-github"> Github</span>](https://github.com/HINAPIA/CoMirror)
 {:.note title="Summary"}
 
 #### 프로젝트 개요
@@ -180,7 +181,7 @@ redirect_from:
 <p><span>2022. 09.<span style="margin-left:30px; font-weight: 500;"> 🥇 제 18회 한성 공학 경진대회 금상</span></span></p>
 
 
-## Hydejack
+<!-- ## Hydejack
 A boutique Jekyll theme for hackers, nerds, and academics.  
 {:.lead}
 
@@ -198,7 +199,7 @@ Hydejack's cover page on a variety of screen sizes.
 It includes a blog that is suitable for both prose and technical documentation, a portfolio to showcase your projects, and a resume template that looks amazing on the web and in print.
 
 > Your complete presence on the web — A [blog], [portfolio], and [resume].
-{:.lead}
+{:.lead} -->
 
 
 
