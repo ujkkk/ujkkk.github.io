@@ -12,9 +12,175 @@ redirect_from:
 # About
 
 <!--author-->
+## Education
+한성대학교 컴퓨터 공학부 (2020.02 ~)
+{:.lead}
+
+**GPA : 4.3 / 4.5  (Major GPA: 4.35)**
+
+- 🏅 4학년 1학기 한성역량 장학금, 50%
+- 🏅 3학년 모든 학기 한성역량 장학금, 70%, 30%
+- 🏅 2학년 모든 학기 한성역량 장학금, 30%, 70%
+<hr>
+
+## Project
+### JPEG 확장을 통한 다초점 멀티 콘텐츠 카메라 솔루션, One Pic All-in JPEG
+
+**멀티 콘텐츠를 담을 수 있는 새로운 파일 포맷 All-in JPEG을 기반으로한, 한 번의 촬영으로 사후 초점 변경이 가능한 카메라 솔루션**<br><br>
+2023.03. - 2023.12.<br> [<span class="icon-youtube"></span>](https://www.youtube.com/watch?v=9IaMnBYUsA8) [<span class="icon-github"></span>](https://github.com/HINAPIA/OnePic-All-in-JPEG)
+{:.note title="Summary"}
+
+#### 프로젝트 개요
+<div markdown="1">
+오늘날, 스마트폰 카메라 성능과 카메라 앱의 기술이 빠르게 발전하고 있지만, <u>촬영자가 원하는 곳에 초점을 맞추기 어렵다는 문제</u>와 <u>촬영된 사진의 초점을 바꿀 수 없다는 문제</u>가 해결되지 않고 있다.
+본 프로젝트는 이러한 문제를 해결하기 위해, 사용자가 <u>촬영 후 원하는 곳으로 초점을 변경할 수 있는 카메라 솔루션</u>을 개발하였고, 이를 안드로이드 앱 OnePIC으로 구현하였다.
+</div>
+
+
+#### 주요 기술
+<div markdown="1">
+ - 객체별/ 거리별 초점이 맞춰진 다초점 이미지 촬영 <br>
+ - 객체별/ 거리별 사후 초점 후처리<br>
+ - 멀티콘텐츠를 담을 수 있는 파일 포맷, All-in JPEG<br>
+ - All-in JPEG의 활용 기술 : 베스트 사진 추천, 얼굴 블렌딩, 매직픽처, 멀티 콘텐츠 파일  생성<br>
+</div>
+
+
+#### 🙋‍♀️ 프로젝트 내 담당 기술
+<div markdown="1">
+<p style="margin-bottom:10px;">✔️ JPEG을 확장한 All-in JPEG 설계 및 구현</p>
+<p style="margin-bottom:10px;">✔️ All-in JPEG 전용 데스크탑 뷰어 구현 </p>
+<p style="margin-bottom:10px;">✔️ JPEG에 사진과 오디오, 텍스트 저장 기술 구현 (UI 및 기능)</p>
+</div>
+
+<details>
+<summary style="font-weight: bold;margin-top:30px"> 📊 개발 스택</summary>
+<div markdown="1">
+- 개발 환경 : AndroidStudio, IntelliJ, VS code<br>
+- 개발 도구 : Camera2, MLKit, Tensorflow lite, OpenCV, TornadoFX<br>
+- 개발 언어 : Kotlin ,HTML5, CSS3, JavaScript, Python<br>
+</div>
+</details>
+
+<details>
+<summary style="font-weight: bold;"> 🎖️ 수상 내역</summary>
+<div markdown="1">
+- [2023. 12. 01] 제 17회 공개 SW 개발자 대회 은상<br>
+- [2023. 09. 26] 제 19회 한성대학교 한성공학경진대회 은상<br>
+- [2023. 08. 11] 제 8회 한성대학교 창의융합성과 경진대회(C&C Festival) 대상<br>
+- [2023. 06. 02] 한성대학교 컴퓨터공학부 캡스톤디자인 작품 발표회 최우수상<br>
+
+</div>
+</details>
+<br>
+<hr>
+
+
+<!--프로젝트 2 -->
+## Electron을 이용한 새로운 IoT 가전 장치, CoMirror (Communication Mirror) ##
+
+**CoMirror는 거울에 Raspberry PI를 부착한 IoT 가전장치로서, 패밀리 허브로 사용되거나 여러 패밀리를 네트워크로 연결할 수 있는 IoT 장치이다.**<br><br>
+2022.06. - 2023.02. <br>[<span class="icon-youtube"></span>](https://www.youtube.com/watch?v=Fe8LvNGYio0) [<span class="icon-github"></span>](https://github.com/HINAPIA/CoMirror)
+{:.note title="Summary"}
+
+#### 프로젝트 개요
+<div markdown="1">
+최근 삼성의 냉장고처럼 IoT화 된 가전제품이 증가하고 있다. 이러한 가전 제품들은 공통적으로 사용자에게 정보 제공, 외부에서 접근 가능, 홈 제어 기능을 가지지만 대부분은 <u>장치 간 통신 기능이 없거나 체계화 되어있지 않다.</u>
+이러한 점에 주목하여 <u>서버 클라이언트 아키텍처로</u> <u>가전 제품 간 통신 체계를 구축하</u>고 이를 거울에 적용한 CoMirror를 개발한다.
+</div>
+####  주요 기술
+<div markdown="1">
+ - 얼굴 인식을 통한 다중 사용자 환경 제공 <br>
+ - MQTT를 이용한 텍스트, 이미지, 음성 메시지 수신 및 송신<br>
+ - WebRTC를 이용한 CoMirror 사용자 간 화상 통신<br>
+  - 음성 명령을 통한 기기 제어<br>
+</div>
+
+#### 🙋‍♀️ 프로젝트 내 담당 기술
+<div markdown="1">
+  <p style="margin-bottom:10px;">✔️ 얼굴 학습 데이터 전처리 및 모델 파인튜닝</p>
+  <p style="margin-bottom:10px">✔️ 얼굴 인식을 통한 다중 사용자 환경 구축 및 관리</p>
+  <p style="margin-bottom:10px">✔️ MQTT를 이용한 텍스트, 이미지, 음성 메시지 송신,수신 </p>
+  <p style="margin-bottom:10px">✔️ 서버 구축 및 DB 테이블 설계</p>
+  <p style="margin-bottom:10px">✔️ 성능평가 및 얼굴 인식 속도 성능 개선</p>
+</div>
+
+<details>
+<summary style="font-weight: bold;margin-top:30px"> 📊 개발 스택</summary>
+<div markdown="1">
+- 개발 환경 :  VSCode<br>
+- 개발 도구 :  Electron, MySQL, OpenCV, WebRTC, Mosqutto, Tensorflow keras<br>
+- 개발 언어 :  HTML5, CSS3, JavaScript, Python<br>
+</div>
+</details>
+
+<details>
+<summary style="font-weight: bold; margin-bottom:10px"> 🎖️ 수상 내역</summary>
+<div markdown="1">
+- [2023. 02. 20] 제 7회 한성대학교 창의융합성과 경진대회(C&C Festival) 대상<br>
+- [2022. 12. 15] 제 20회 임베디드 경진대회 우수 연구노트 부문 특별상(성균관대학교 총장상)<br>
+- [2022. 12. 15] 제 20회 임베디드 경진대회 자유공모 부문 우수상(MDS인텔리전스 대표상)<br>
+- [2022. 09. 23] 제 18회 한성대학교 한성공학경진대회 금상<br>
+</div>
+</details>
+<br>
+<hr>
+
+<!-- <summary> 주요 기술</summary>
+<div markdown="1">
+ ✔️ 객체별/ 거리별 초점이 맞춰진 다초점 이미지 촬영 <br>
+ ✔️ 객체별/ 거리별 사후 초점 후처리<br>
+ ✔️ 멀티콘텐츠를 담을 수 있는 파일 포맷, All-in JPEG<br>
+ ✔️ All-in JPEG의 활용 기술 : 베스트 사진 추천, 얼굴 블렌딩, 매직픽처, 멀티 콘텐츠 파일  생성<br>
+</div>
+</details> -->
+
+<p style="margin-top:50px"></p>
+## Journal
+[**JPEG를 확장한 멀티 콘텐츠 저장 포맷 All-in-JPEG에 관한 예비 연구**](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003013205)
+
+ <u>Yu-Jin Kim</u>, Kyung-Mi Kim, Song-Yeon Yoo, Park Chae-Won, Kitae Hwang, Inhwan Jung, Jae-Moon Lee<br> 
+ {:.faded}
+*한국인터넷방송통신학회, The Institute of Internet, Broadcasting and Communication (IIBC)*
+
+<hr>
+[**All-in-JPEG File Format as Extension of JPEG and Its Applications**](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003013205)
+
+ Kyung-Mi Kim, <u>Yu-Jin Kim</u>, Song-Yeon Yoo, Park Chae-Won, Kitae Hwang, Inhwan Jung, Jae-Moon Lee<br> 
+ {:.faded}
+*International Conference on Innovation Convergence Technology (ICICT)*
+<hr>
+[**스마트 미러간 화상 통화와 메시징 기능을 가진 CoMirror 시스템의 성능평가**](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002973065)
+
+ Kyung-Mi Kim, <u>Yu-Jin Kim</u>, Song-Yeon Yoo, Park Chae-Won, Kitae Hwang, Inhwan Jung, Jae-Moon Lee<br> 
+ {:.faded}
+*한국인터넷방송통신학회, The Institute of Internet, Broadcasting and Communication (IIBC)*
+<hr>
+[**스마트 미러간 화상 통화와 메시징 기능을 가진 CoMirror 시스템 구현**](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002908879)
+
+ Kyung-Mi Kim, <u>Yu-Jin Kim</u>, Song-Yeon Yoo, Park Chae-Won, Kitae Hwang, Inhwan Jung, Jae-Moon Lee<br> 
+ {:.faded}
+*한국인터넷방송통신학회, The Institute of Internet, Broadcasting and Communication (IIBC)*
+
+
+<p style="margin-top:150px"></p>
+## AWARDS & CERTIFICATIONS
+<p style="font-size: 24px; font-weight: 100;" >2023</p>
+<hr>
+<p><span>2023. 11.<span style="margin-left:30px; font-weight: bold;"> 🥈 2023년 공개SW 개발자대회 은상</span></span></p>
+<p><span>2023. 09.<span style="margin-left:30px; font-weight: 500;"> 🥈 제 19회 한성 공학 경진대회 은상</span></span></p>
+<p><span>2023. 08.<span style="margin-left:30px; font-weight: bold;"> 🏆 제 8회 한성대학교 C&C Festival(창의융합성과 경진대회) 대상</span></span></p>
+<p><span>2023. 06.<span style="margin-left:30px; font-weight: 500;"> 🏅 2023년 한성대학교 컴퓨터공학부 캡스톤디자인 작품 발표회 최우수상</span></span></p>
+<p><span>2023. 02.<span style="margin-left:30px; font-weight: bold;"> 🏆 제 7회 한성대학교 C&C Festival(창의융합성과 경진대회) 대상</span></span></p>
+
+<p style="font-size: 24px; font-weight: 100; margin-top: 50px;" >2022</p>
+<hr>
+<p><span>2022. 12.<span style="margin-left:30px; font-weight: bold;"> 🏅 제 20회 임베디드 경진 대회 자유공모 부문 우수상</span></span></p>
+<p><span>2022. 12.<span style="margin-left:30px; font-weight: bold;"> 🏅 제 20회 임베디드 경진 대회 우수 연구노트상 부문 수상</span></span></p>
+<p><span>2022. 09.<span style="margin-left:30px; font-weight: 500;"> 🥇 제 18회 한성 공학 경진대회 금상</span></span></p>
+
 
 ## Hydejack
-
 A boutique Jekyll theme for hackers, nerds, and academics.  
 {:.lead}
 
@@ -34,114 +200,6 @@ It includes a blog that is suitable for both prose and technical documentation, 
 > Your complete presence on the web — A [blog], [portfolio], and [resume].
 {:.lead}
 
-
-## A Personal Site That Won't Disappear
-
-**Hydejack** is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.
-
-Hydejack is all static sites. _HTML_. All you need is a web server --- any web server --- to have a professional web presence that lasts a lifetime.
-
-## Download
-
-{% include table.md %}
-
-
-## A Free Blogging Theme
-**Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
-
-<!--posts-->
-
-
-## An Impressive Portfolio
-A portfolio that's guaranteed to be impressive — no matter what you put into it.
-
-<!--projects-->
-
-
-## A Printable Resume
-Get a resume that's consistent across the board — whether it's on the web, mobile, print, or [PDF](assets/Resume.pdf).
-
-[![Resume PDF](assets/img/blog/resume.png){:.lead width="884" height="632" loading="lazy"}][resume]{:.no-hover.no-mark}
-
-Front and center page of a print resume generated by Hydejack.
-{:.figcaption}
-
-
-## Just Markdown
-Write all content with Markdown. __Hydejack__ gives you [additional CSS classes](docs/writing.md) to stylize your content, without losing compatibility with other Jekyll themes.
-
-
-## Just Markup
-**Hydejack** boasts a plethora of modern JavaScript, but make no mistake: It's still a _plain old web page_ at its core. It works without JavaScript and you can even view it in a text-based browser like `w3m`:
-
-![w3m Screenshot](assets/img/blog/w3m.png){:.tail width="1920" height="1260" loading="lazy"}
-
-The Hydejack blog, as seen by the text browser `w3m`.
-{:.figcaption}
-
-
-## Syntax Highlighting
-**Hydejack** features syntax highlighting, powered by [Rouge].
-
-```html
-<!-- file: `_includes/my-body.html` -->
-<script type="module">
-  document.querySelector("hy-push-state").addEventListener("hy-push-state-load", () => {
-    const supportsCodeHighlights = false; // TBD!!
-  });
-</script>
-```
-
-Code blocks can have a filename and a caption.
-{:.figcaption}
-
-
-## Beautiful Math
-They say math is beautiful — and with **Hydejack**'s [math support][math] it's guaranteed to also look beautiful:
-
-$$
-\begin{aligned}
-  \phi(x,y) &= \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right) \\[2em]
-            &= \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j)            \\[2em]
-            &= (x_1, \ldots, x_n)
-               \left(\begin{array}{ccc}
-                 \phi(e_1, e_1)  & \cdots & \phi(e_1, e_n) \\
-                 \vdots          & \ddots & \vdots         \\
-                 \phi(e_n, e_1)  & \cdots & \phi(e_n, e_n)
-               \end{array}\right)
-               \left(\begin{array}{c}
-                 y_1    \\
-                 \vdots \\
-                 y_n
-               \end{array}\right)
-\end{aligned}
-$$
-
-Hydejack uses KaTeX to efficiently render math.
-{:.figcaption}
-
-
-## Build an Audience
-The PRO version has built-in support for customizable [Tinyletter] newsletter subscription boxes.
-
-If you are using a different service like MailChimp, you can build a custom newsletter subscription box using [Custom Forms][forms].
-
-
-## Features
-
-{% include features.md %}
-
-
-## Comparison
-
-{% include table.md %}
-
-
-## Get It Now
-
-Use the the form below to purchase Hydejack PRO:
-
-<div class="gumroad-product-embed" data-gumroad-product-id="nuOluY"><a href="https://gumroad.com/l/nuOluY">Loading…</a></div>
 
 
 [blog]: /
