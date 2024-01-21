@@ -24,7 +24,7 @@ redirect_from:
 <hr>
 
 ## Project
-### JPEG 확장을 통한 다초점 멀티 콘텐츠 카메라 솔루션, One Pic All-in JPEG
+## JPEG 확장을 통한 다초점 멀티 콘텐츠 카메라 솔루션, One Pic All-in JPEG
 
 **멀티 콘텐츠를 담을 수 있는 새로운 파일 포맷 All-in JPEG을 기반으로한, 한 번의 촬영으로 사후 초점 변경이 가능한 카메라 솔루션**<br><br>
 2023.03. - 2023.12.<br> [<span class="icon-youtube"> Youtube </span>](https://www.youtube.com/watch?v=9IaMnBYUsA8) [<span class="icon-github"> Github </span>](https://github.com/HINAPIA/OnePic-All-in-JPEG)
@@ -165,8 +165,8 @@ redirect_from:
 
 
 <p style="margin-top:150px"></p>
-## AWARDS & CERTIFICATIONS
-<p style="font-size: 24px; font-weight: 100;" >2023</p>
+## AWARDS
+<p style="font-size: 24px; font-weight: 100;font-style:italic;" >2023</p>
 <hr>
 <p><span>2023. 11.<span style="margin-left:30px; font-weight: bold;"> 🥈 2023년 공개SW 개발자대회 은상</span></span></p>
 <p><span>2023. 09.<span style="margin-left:30px; font-weight: 500;"> 🥈 제 19회 한성 공학 경진대회 은상</span></span></p>
@@ -174,13 +174,131 @@ redirect_from:
 <p><span>2023. 06.<span style="margin-left:30px; font-weight: 500;"> 🏅 2023년 한성대학교 컴퓨터공학부 캡스톤디자인 작품 발표회 최우수상</span></span></p>
 <p><span>2023. 02.<span style="margin-left:30px; font-weight: bold;"> 🏆 제 7회 한성대학교 C&C Festival(창의융합성과 경진대회) 대상</span></span></p>
 
-<p style="font-size: 24px; font-weight: 100; margin-top: 50px;" >2022</p>
+<p style="font-size: 24px; font-weight: 100; margin-top: 50px;font-style:italic;" >2022</p>
 <hr>
 <p><span>2022. 12.<span style="margin-left:30px; font-weight: bold;"> 🏅 제 20회 임베디드 경진 대회 자유공모 부문 우수상</span></span></p>
 <p><span>2022. 12.<span style="margin-left:30px; font-weight: bold;"> 🏅 제 20회 임베디드 경진 대회 우수 연구노트상 부문 수상</span></span></p>
 <p><span>2022. 09.<span style="margin-left:30px; font-weight: 500;"> 🥇 제 18회 한성 공학 경진대회 금상</span></span></p>
 
 
+<div style="margin-top:150px"> </div>
+
+## CERTIFICATIONS
+<div class="row" style="margin-top:20px">
+  <div class="column">
+    <img src="https://github.com/ujkkk/ujkkk.github.io/assets/88374384/157cb5e6-73ec-4bcc-ace7-9f029c217810" alt="2024 한성대학교 동계 프로그래밍 캠프">
+    <p style="font-size:18px; margin-top:10px; margin-bottom:10px; font-weight:600">2024 한성대학교 동계 프로그래밍 캠프</p>
+    <p style=" margin-bottom:1px; font-size:16px;font-weight:500">한성대학교</p>
+    <p style=" margin-bottom:10px;" >👩‍🏫 튜터 활동</p>
+    <p style="margin-bottom:1px; font-style:italic;" >2024.01.15 ~ 2024.01.18</p>
+  </div>
+
+  <div class="column">
+    <img src="https://github.com/ujkkk/ujkkk.github.io/assets/88374384/34ac4658-87e5-4c0b-a9cf-811f6bf8e876" alt="공개 SW 개발자 대회">
+    <p style="font-size:18px; margin-top:10px; margin-bottom:10px; font-weight:600">제 20회 공개 SW 개발자 대회</p>
+    <p style=" margin-bottom:1px; font-size:16px;font-weight:500">과학기술정보통신부</p>
+    <p style=" margin-bottom:10px;" >🥈 은상</p>
+    <p style="margin-bottom:1px; font-style:italic;" >2023.12.01</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/ujkkk/ujkkk.github.io/assets/88374384/f7c70637-6c29-4c5f-80d1-bdeb88648c39" alt="2023 공경진">
+    <p style="font-size:18px; margin-top:10px; margin-bottom:10px; font-weight:600">제 19회 한성 공학 경진대회</p>
+    <p style=" margin-bottom:1px; font-size:16px;font-weight:500">한성대학교</p>
+    <p style=" margin-bottom:10px;" >🥈 은상</p>
+    <p style="margin-bottom:1px; font-style:italic;" >2024.09.26</p>
+  </div>
+
+  <div class="column">
+    <img src="https://github.com/ujkkk/ujkkk.github.io/assets/88374384/75c00a81-cc73-48a4-95a8-66c31bc87c7d" alt="2023 2학기 C&C">
+    <p style="font-size:18px; margin-top:10px; margin-bottom:10px; font-weight:600">제 8회 한성대학교 C&C Festival(창의융합성과 경진대회)</p>
+    <p style=" margin-bottom:1px; font-size:16px;font-weight:500">한성대학교</p>
+    <p style=" margin-bottom:10px;" >🏆 대상</p>
+    <p style="margin-bottom:1px; font-style:italic;" >2023.08.11</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/ujkkk/ujkkk.github.io/assets/88374384/4dc23d0b-97f6-4b71-a533-cafc60b7096a" alt="2023 캡스톤">
+    <p style="font-size:18px; margin-top:10px; margin-bottom:10px; font-weight:600">한성대학교 컴퓨터공학부 캡스톤디자인 작품 발표회</p>
+    <p style=" margin-bottom:1px; font-size:16px;font-weight:500">한성대학교</p>
+    <p style=" margin-bottom:10px;" >🏆 최우수상</p>
+    <p style="margin-bottom:1px; font-style:italic;" >2023.06.03</p>
+  </div>
+
+  <div class="column">
+    <img src="https://github.com/ujkkk/ujkkk.github.io/assets/88374384/fc7cc939-4712-418a-8cd2-48a190975884" alt="2023 1학기 C&C">
+    <p style="font-size:18px; margin-top:10px; margin-bottom:10px; font-weight:600">제 7회 한성대학교 C&C Festival(창의융합성과 경진대회)</p>
+    <p style=" margin-bottom:1px; font-size:16px;font-weight:500">한성대학교</p>
+    <p style=" margin-bottom:10px;" >🏆 대상</p>
+    <p style="margin-bottom:1px; font-style:italic;" >2023.02.20</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/ujkkk/ujkkk.github.io/assets/88374384/7a7e920c-a9d7-4428-8670-179f32b324a7" alt="파이썬 캠프">
+    <p style="font-size:18px; margin-top:10px; margin-bottom:10px; font-weight:600">한성대학교 문제해결을 위한 파이썬 프로그램</p>
+    <p style=" margin-bottom:1px; font-size:16px;font-weight:500">한성대학교</p>
+    <p style=" margin-bottom:10px;" >👩‍🏫 조교 활동</p>
+    <p style="margin-bottom:1px; font-style:italic;" >2023.01.25 ~ 2023.02.10</p>
+  </div>
+
+  <div class="column">
+    <img src="https://github.com/ujkkk/ujkkk.github.io/assets/88374384/7873ed07-5d35-4372-9e16-78ddb25f0c13" alt="2023 코딩 캠프">
+    <p style="font-size:18px; margin-top:10px; margin-bottom:10px; font-weight:600">2023 한성대학교 동계 프로그래밍 캠프</p>
+    <p style=" margin-bottom:1px; font-size:16px;font-weight:500">한성대학교</p>
+    <p style=" margin-bottom:10px;" >👩‍🏫 튜터 활동</p>
+    <p style="margin-bottom:1px; font-style:italic;" >2023.01.09 ~ 2023.01.12</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/ujkkk/ujkkk.github.io/assets/88374384/33d43c71-106e-4577-b4b6-36a07dcf538a" alt="임베디드 경진 대회">
+    <p style="font-size:18px; margin-top:10px; margin-bottom:10px; font-weight:600">제 20회 임베디드 경진 대회</p>
+    <p style=" margin-bottom:1px; font-size:16px;font-weight:600">산업통상자원부</p>
+    <p style=" margin-bottom:10px;" >🏅 자유공모 부문 우수상 • 우수연구노트상</p>
+    <p style="margin-bottom:1px; font-style:italic;" >2022.12.15</p>
+  </div>
+
+  <div class="column">
+    <img src="https://github.com/ujkkk/ujkkk.github.io/assets/88374384/c9509791-482e-4f53-aeb1-c05c5cf00e1c" alt="2023 코딩 캠프">
+    <p style="font-size:18px; margin-top:10px; margin-bottom:10px; font-weight:600">제 18회 한성 공학 경진대회</p>
+    <p style=" margin-bottom:1px; font-size:16px;font-weight:500">한성대학교</p>
+    <p style=" margin-bottom:10px;" >🥇 금상</p>
+    <p style="margin-bottom:1px; font-style:italic;" >2022.09.24</p>
+  </div>
+</div>
+
+<style>
+/* CSS 스타일 */
+.row {
+  display: flex;
+  justify-content: space-between;
+  margin-top:70px;
+}
+
+.column {
+  flex: 1;
+  /* text-align: center; */
+  margin-right: 20px; 
+}
+
+img {
+  max-width: 100%;
+  border-radius :10px;
+  height: auto;
+}
+
+/* 각 column 간의 간격을 조절하려면 아래의 스타일을 사용하세요. */
+/* .column {
+  margin-right: 10px; 
+} */
+</style>
 <!-- ## Hydejack
 A boutique Jekyll theme for hackers, nerds, and academics.  
 {:.lead}
